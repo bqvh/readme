@@ -16,3 +16,12 @@
 <p align="left">
 <a href="https://instagram.com/p_matyasss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_matyasss" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@bqvh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="p_matyasss" height="30" width="40" /></a>
+
+
+
+
+
+
+
+> (many things taken from zortik from his github) 
+> https://github.com/ZorTik/ZorTik
