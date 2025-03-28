@@ -1,4 +1,5 @@
-# readme
+# About me
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67344817/176185706-ab57e51a-1649-4255-824f-1419f7dba178.png" width="100"></img>
 </p>
