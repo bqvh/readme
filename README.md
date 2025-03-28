@@ -23,5 +23,5 @@
 
 
 
-> (many things taken from zortik from his github) 
+> (many things taken from zortik github) 
 > https://github.com/ZorTik/ZorTik
